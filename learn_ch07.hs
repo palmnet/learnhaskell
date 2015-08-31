@@ -36,7 +36,7 @@ encode offset msg = map (\c -> chr $ ord c + offset) msg
 -- phonebook
 --
 phonebook = 
-  [("sugino", "090-1743-3280")
+  [("sugino", "090-0000-3211")
   ,("taka", "555-5555-5555")
   ,("yama", "111-1111-1234")
   ,("hash", "999-9999-1222")
